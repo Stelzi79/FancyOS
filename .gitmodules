@@ -4,3 +4,6 @@
 [submodule "src/OVMFbin"]
 	path = src/OVMFbin
 	url = git@github.com:Absurdponcho/OVMFbin.git
+[submodule "src/kernel"]
+	path = src/kernel
+	url = git@github.com:Absurdponcho/kernel.git
